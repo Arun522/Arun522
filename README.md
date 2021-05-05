@@ -1,5 +1,6 @@
-### Hi there, I'm Arun 👋
+### Hi there, I'm Arunkumar Velu 👋
 
+[![Twitter Follow](https://img.shields.io/twitter/follow/rockstararun200?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=rockstararun200)
 
 
 ## I'm a Student, Developer, and Learner!!
@@ -18,8 +19,8 @@
 [<img align="left" alt="Arun | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
-[website]: https://codeSTACKr.com
-[course]: http://vsCodeHero.com
+[website]: https://google.com
+[course]: http://google.com
 [twitter]: https://twitter.com/@rockstararun200
 [instagram]: https://instagram.com/ethan_hunt_arun
 [linkedin]: https://linkedin.com/in/arun-kumar-8513b899
